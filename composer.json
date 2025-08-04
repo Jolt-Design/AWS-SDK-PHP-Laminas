@@ -17,7 +17,7 @@
     "require": {
         "php": ">=8.1",
         "aws/aws-sdk-php": "^3.338.0",
-        "laminas/laminas-filter": "^2.9.0",
+        "laminas/laminas-filter": "^2 || ^3",
         "laminas/laminas-servicemanager": "^3.0 || ^4.0",
         "laminas/laminas-session": "^2.7.0",
         "laminas/laminas-view": "^2.8"
